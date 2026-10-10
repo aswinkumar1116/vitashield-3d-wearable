@@ -1,0 +1,24 @@
+# Vita Shield Reference Revision Tasks
+
+- [x] Reshape the assembled wearable to the uploaded elongated curved AMOLED form with side-mounted button details.
+- [x] Rebuild the exploded stack as display, top cover, rectangular PCB assembly, Li-Po battery, bottom sensor cover, and curved perforated strap.
+- [x] Add reference-led underside sensor windows and top/bottom charging/port details where visible in the supplied views.
+- [x] Preserve layer selection, exploded animation, camera focus, emergency display interaction, scenario modes, and responsive UI.
+- [x] Validate assembled view, exploded view, layer highlighting, selected-layer camera movement, desktop, and mobile layout.
+- [x] Upgrade smartwatch shell with true thickness, bevels, curved glass, side buttons, underside geometry, and realistic materials.
+- [x] Replace the flat PCB representation with a thick black board and raised 3D components: ESP32-S3, USB-C, BME688, PPG/ECG interfaces, charging/protection, regulation, connectors, alert driver, SOS interface, antenna, and test points.
+- [x] Make the health/environment sensor assemblies physically distinct with raised optical LEDs, photodetector, ECG interface, and mounted BME688.
+- [x] Preserve explode, assemble, orbit, zoom, direct selection, and information panel behavior.
+- [x] Validate desktop and mobile renders, then save a new checkpoint and deliver the realism upgrade.
+- [x] Match the uploaded CAD watch silhouette with a rounded rectangular body and continuous curved face.
+- [x] Add the reference crown, elongated side button, integrated curved strap arms, open wrist loop, and rear circular sensor.
+- [x] Preserve layer selection, exploded assembly, orbit, zoom, and responsive UI behavior.
+- [x] Validate the reference-matched form and save a new checkpoint.
+- [x] Replace segmented strap blocks with a flatter continuous band treatment.
+- [x] Refine the front screen into a recognizable smartwatch display with bezel, time, heart-rate, and status UI.
+- [x] Preserve the current interactions and validate desktop/mobile layout.
+- [x] Save a new checkpoint and deliver the refinement.
+- [x] Enable unrestricted horizontal and vertical 360-degree orbit around the watch.
+- [x] Reduce the physical thickness of the display, enclosure, PCB, sensor, alert, battery, bottom, and strap layers slightly.
+- [x] Preserve explode/assemble, selection, zoom, and responsive behavior.
+- [x] Validate the slim model and save a new checkpoint.
